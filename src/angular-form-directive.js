@@ -1,7 +1,7 @@
 (function( angular ) {
 	'use strict';
 
-	angular.module('dcrForm',[])
+	angular.module('formDirective',[])
 	.directive('dcrForm', function(){
 		return {
 			restrict: 'E',
